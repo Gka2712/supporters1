@@ -1,2 +1,2 @@
 # supporters1
-12/26サポーターズ
+developブランチで変更
